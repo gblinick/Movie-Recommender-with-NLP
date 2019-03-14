@@ -1,6 +1,6 @@
 "# Movie-Recommender-Clusterer" 
 
-This is a project about movie recommendation using text data, numerica data, and movie genre data from IMDb.
+This is a project about movie recommendation using text data, numeric data, and movie genre data from IMDb.
 
 The current models only use text data for recommendations, but they will be extended to use the other features.
 
