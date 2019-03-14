@@ -8,7 +8,7 @@ To see the current models, please see: https://github.com/gblinick/Movie-Recomme
 
 To see EDA: https://github.com/gblinick/Movie-Recommender-Clusterer/blob/master/EDA.ipynb
 
-For summary of the project to data in report form: https://github.com/gblinick/Movie-Recommender-Clusterer/blob/master/Capstone%202%20Milestone%20Report%202.pdf
+For summary of the project to date in report form: https://github.com/gblinick/Movie-Recommender-Clusterer/blob/master/Capstone%202%20Milestone%20Report%202.pdf
 
 
 
