@@ -1,10 +1,8 @@
 "# Movie-Recommender-with-NLP" 
 
-This is a project about movie recommendation using text data, numeric data, and movie genre data from IMDb.
+This is a project about movie recommendation using text data from IMDb.
 
-The current models only use text data for recommendations, but they will be extended to use the other features.
-
-To see the current models, please see: https://github.com/gblinick/Movie-Recommender-Clusterer/blob/master/ML%20-%20Recommending.ipynb
+To see the models, please see: https://github.com/gblinick/Movie-Recommender-Clusterer/blob/master/ML%20-%20Recommending.ipynb
 
 To see EDA: https://github.com/gblinick/Movie-Recommender-Clusterer/blob/master/EDA.ipynb
 
