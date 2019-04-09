@@ -1,4 +1,4 @@
-"# Movie-Recommender-Clusterer" 
+"# Movie-Recommender-with-NLP" 
 
 This is a project about movie recommendation using text data, numeric data, and movie genre data from IMDb.
 
