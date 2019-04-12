@@ -1,4 +1,4 @@
-Movie-Recommender-with-NLP
+**Movie-Recommender-with-NLP**
 
 This is a project about making movie recommendations. I created 3 models which accept a movie from a user and return the n most similar movies to the user. My 1st model uses tf-idf and cosine similarity; my 2nd uses Jaccard Similarity; my 3rd uses word counts and cosine similarity. 
 
