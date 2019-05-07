@@ -4,6 +4,8 @@ This is a project about making movie recommendations. I created 3 models which a
 
 I created my own dataset using IMDb's public datasets and the IMDbPY API.
 
+For a nice, concise overview of the project in fewer than 1000 lines of code, please see: https://github.com/gblinick/Movie-Recommender-with-NLP/blob/master/Keyword%20Movie%20Recommender.ipynb
+
 For a presentation overview of my project, please see my PowerPoint presentation: https://github.com/gblinick/Movie-Recommender-with-NLP/blob/master/Movie%20Recommendation%20with%20Natural%20Language%20Processing.pdf
 
 For a report overview, please see my final report: https://github.com/gblinick/Movie-Recommender-with-NLP/blob/master/Capstone%202%20Final%20Report.pdf
